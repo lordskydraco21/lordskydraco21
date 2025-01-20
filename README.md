@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lordskydraco21
+👋 Hi, I’m @lordskydraco21
 
 **Technical Skills:**  
 🐍 Python, 💻 JavaScript, ☕ Java, 🎮 C#, 🐚 Bash, 📊 SQL, 🌐 HTML, 🎨 CSS, ⚛️ React.js, 📈 D3.js, 🎲 p5.js, 🌍 Django, ⚗️ Flask, 🧩 DOM, 🌀 BOM, 📹 YouTube Data API.  
