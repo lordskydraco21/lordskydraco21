@@ -7,4 +7,4 @@
 | **Development Tools**        | 🖥️ VSCode, 🤖 Cursor.ai, 🧩 StackBlitz, ⚡ Bolt, 🕸️ Git, 🌐 GitHub                                                                            |
 | **Hobbies**                  | 🎬 3D modeling and animation, 🛠️ development, 🎶 music production, 🖋️ content creation, 🌟 exploring new tech and tools                         |
 | **Interests**                | 🏆 Fame and wealth, 🏡 building a house, 😂 humor and meme creation, 💼 personal branding, 🎤 hip 808 freestyle rap                               |
-| **Learning Goals**           | 🎛️ FL Studio, 📚 academic pursuits, 🎥 advanced 3D modeling and animation, 🛠️ Blender addon development                                      |
+| **Learning Goals**           | 🎛️ FL Studio, 📚 academic pursuits, 🎥 advanced 3D modeling and animation, 🛠️ Blender addon development, natron                                      |
