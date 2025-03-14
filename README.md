@@ -9,3 +9,5 @@
 | 🖥️ **Development Tools**     | 🖥️ VSCode, 🤖 Cursor.ai, 🧩 StackBlitz, ⚡ Bolt, 🕸️ Git, 🌐 GitHub                                                                            |
 | 🚀 **Hobbies**               | 🎬 3D modeling & animation, 🛠️ development, 🎶 music production, 🖋️ content creation, 🌟 exploring new tech & tools                        |
 | 🎯 **Learning Goals**        | 🎛️ FL Studio, 📚 academic pursuits, 🎥 advanced 3D modeling & animation, 🛠️ Blender addon development, Natron                                      |
+![image](https://github.com/user-attachments/assets/2809fbda-dcd2-4e0e-b565-993293d9f282)
+
